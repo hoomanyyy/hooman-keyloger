@@ -1,9 +1,3 @@
-
-#### ۲. `hooman-keyloger` (README فقط عنوان داشت)
-یک keylogger ساده با pynput که کلیدها را در فایل می‌نویسد و هر ۵ ثانیه به سرور FastAPI می‌فرستد.
-
-**README پیشنهادی:**
-
 ```markdown
 # ⌨️ Educational Keylogger (Python)
 
